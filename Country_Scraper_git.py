@@ -5,7 +5,7 @@ Created on Thu Apr 14 18:19:01 2022
 @author: tommasoficara
 """
 
-## This script associates Products with their corresponding Country of Origin
+## This script creates a DataFrame used in the main Data Analysis Script to associate Brands with their corresponding Country of Origin
 
 import os
 from bs4 import BeautifulSoup
