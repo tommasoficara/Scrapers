@@ -1,2 +1,1 @@
-# Immo_scraper
-Customizable Python crawler and scrape file to generate excel file with current Berlin housing data.
+This repository contains different crawling and webscraping scripts to extract data from the web and to produce excel files. 
